@@ -4,7 +4,8 @@
 cp .andromedad/config/node_key.json /home/nodebackup
 cp .andromedad/config/priv_validator_key.json /home/nodebackup
 cp .andromedad/data/priv_validator_state.json /home/nodebackup
-  # /home/nodebackup - you directories
+  
+  # /home/nodebackup - you directories / ваша директория для резервного копирования
 ```
   
   
