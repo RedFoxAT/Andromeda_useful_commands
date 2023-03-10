@@ -5,6 +5,8 @@ cp .andromedad/config/node_key.json /home/nodebackup
 cp .andromedad/config/priv_validator_key.json /home/nodebackup
 cp .andromedad/data/priv_validator_state.json /home/nodebackup
 ```
+  # /home/nodebackup - you directories
+  
 ### _CHANGE NODE PROPERTIES / ИЗМЕНЕНИЕ СВОЙСТВ НОДЫ_
 ```
 andromedad tx staking edit-validator 
