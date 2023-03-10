@@ -7,8 +7,7 @@ cp .andromedad/data/priv_validator_state.json /home/nodebackup
   
   # /home/nodebackup - you directories / ваша директория для резервного копирования
 ```
-  
-  
+    
 ### _CHANGE NODE PROPERTIES / ИЗМЕНЕНИЕ СВОЙСТВ НОДЫ_
 ```
 andromedad tx staking edit-validator 
