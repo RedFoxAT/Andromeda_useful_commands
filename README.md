@@ -19,6 +19,8 @@ andromedad tx staking edit-validator
 --gas 350000 
 --from <our wallet name> 
 --details="new" -y
+
+  # вставьте свои данные для замены 
 ```
 ### _NODA IN JAIL / НОДА "В ТЮРЬМЕ"_
 ```
